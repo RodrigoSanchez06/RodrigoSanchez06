@@ -1,5 +1,4 @@
-- 👋 Hola soy @RodrigoSanchez06 tengo 18 años, soy estudiante de la Facultad de Ciencias de la UNAM
-- 👀 Estoy interesado en poder cambiar al mundo programandoy creando nuevas herramientas para todos
-- 🌱 Actualmente estoy aprendiendo Java y Haskell y tengo planes de aprender Ruby y Python 
-- 💞️ Estoy buscando colaborar con cualquier persona de la que pueda aprendar
-- Me gusta la pizza :D
+- 👋 Hola soy Rodrigo Sanchez tengo 19 años, soy estudiante de la licenciatura en Ciencias de la Computación en la UNAM.
+- 👀 Estoy interesado en poder cambiar al mundo programando, creando nuevas herramientas para todos.
+- 🌱 Actualmente estoy aprendiendo Java, Haskell y Python.
+- 💞 Estoy dispuesto a colaborar con cualquier persona de la que pueda aprender.
