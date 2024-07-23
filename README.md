@@ -1,2 +1,1 @@
 - 👋 Hola soy Rodrigo Sanchez tengo 20 años, soy estudiante de la licenciatura en Ciencias de la Computación en la UNAM.
-- 👀 Trabajo principalmente con el lenguaje Java.
